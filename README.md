@@ -92,7 +92,7 @@ TheDataAthlete/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/TheDataAthlete.git
+git clone https://github.com/SupaTx/TheDataAthlete.git
 cd TheDataAthlete
 ```
 
