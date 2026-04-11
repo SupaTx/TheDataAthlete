@@ -175,8 +175,7 @@ See `requirements.txt` for exact versions.
 
 ## 📄 License
 
-This project is for **educational and research purposes only**. Betting involves financial risk. The author is not responsible for any losses.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 ## 🙏 Acknowledgments
